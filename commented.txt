@@ -1,0 +1,19 @@
+tiles.js 
+
+    // const router = useRouter()
+    //const [clicks, setClicks] = useState({ clickOneValue: "", first: true, clickTwoValue: "" })
+    // const [level, setLevel] = useState(1)
+    // const [randEmojis, setRandomEmojis] = useState([])
+    //const [matched, setMatched] = useState([])
+
+    // function handleClick(emoji) {
+    //     if (clicks.first == true) {
+    //         setClicks((state) => { return { ...state, clickOneValue: emoji, first: !state.first } })
+    //     }
+    //     else if (clicks.first == false) {
+    //         setClicks((state) => { return { ...state, clickTwoValue: emoji, first: !state.first } })
+    //     }
+
+    //     //if (clicks.clickOneValue != "" && clicks.clickTwoValue != "" && clicks.first)
+    //     if (clicks.first) setClicks({ clickOneValue: "", first: true, clickTwoValue: ""  })
+    // }
